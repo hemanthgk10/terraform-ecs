@@ -1,5 +1,7 @@
 # Terraform-AWS-ECS
 
+[![CIS](https://app.demo.soluble.cloud/api/v1/public/badges/8fa18237-d7ba-45b2-ae67-0d6e08f2fc38.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/terraform-ecs)  [![IaC](https://app.demo.soluble.cloud/api/v1/public/badges/2dd63daa-0861-40e4-b607-2d1587dbfe73.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/terraform-ecs)  [![HIPAA](https://app.demo.soluble.cloud/api/v1/public/badges/065b07bc-da06-473a-aaeb-23e76a15aa8b.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/terraform-ecs)  
+
 Terraform modules for creating a production ready ECS Cluster in AWS.
 
 Features:
