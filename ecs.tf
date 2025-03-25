@@ -6,6 +6,7 @@ provider "aws" {
 module "ecs" {
   source = "./modules/ecs"
 
+  # Add extra comment
   environment          = var.environment
   cluster              = var.environment
   cloudwatch_prefix    = "${var.environment}"           #See ecs_instances module when to set this and when not!
