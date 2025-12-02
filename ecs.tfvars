@@ -37,4 +37,4 @@ min_size = 1
 desired_capacity = 1
 
 # Size of instances in the ECS cluster.
-instance_type = "t2.micro"
+instance_type = "t2.macro"
